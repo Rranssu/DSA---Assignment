@@ -9,6 +9,4 @@ def squares(integer: int) -> int:
         sum += i * i
     print("sum of all square roots: ", sum)
     return sum
-        
-    
     
