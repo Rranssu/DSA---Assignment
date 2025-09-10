@@ -8,5 +8,5 @@ This is the main repository for my first hands-on assignment for Data Structure 
 
 ## 📦Requirements
 - Python 3.13.7
-  - (❗For users using older version please note that this was made for newer versions)
+  - (❗For users using older version please note that this was made for newer versions results may vary on untested versions)
 - Visual Studio Code
